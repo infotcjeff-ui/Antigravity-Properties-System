@@ -1,0 +1,97 @@
+{
+    "app": {
+        "title": "Antigravity Properties System",
+        "admin": "Admin Dashboard",
+        "client": "Client Portal"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "properties": "Properties",
+        "renting": "Renting (Expense)",
+        "rentout": "Rent Out (Income)",
+        "proprietors": "Proprietors",
+        "myListings": "My Listings",
+        "logout": "Logout"
+    },
+    "common": {
+        "add": "Add",
+        "edit": "Edit",
+        "delete": "Delete",
+        "save": "Save",
+        "cancel": "Cancel",
+        "search": "Search",
+        "filter": "Filter",
+        "actions": "Actions",
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "confirm": "Confirm",
+        "yes": "Yes",
+        "no": "No"
+    },
+    "auth": {
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "loginButton": "Sign In",
+        "loginError": "Invalid credentials"
+    },
+    "properties": {
+        "title": "Properties",
+        "addProperty": "Add Property",
+        "editProperty": "Edit Property",
+        "name": "Name",
+        "proprietor": "Proprietor",
+        "type": "Type",
+        "status": "Status",
+        "landUse": "Land Use",
+        "address": "Address",
+        "lotNumber": "Lot Number",
+        "areaSquareFeet": "Area (sq ft)",
+        "code": "Code",
+        "images": "Images",
+        "mapImages": "Map Images",
+        "floorPlan": "Floor Plan",
+        "hasPlanningPermission": "Has Planning Permission",
+        "isListed": "Is Listed",
+        "createNewProprietor": "Create New Proprietor"
+    },
+    "proprietors": {
+        "title": "Proprietors",
+        "addProprietor": "Add Proprietor",
+        "name": "Name",
+        "contactInfo": "Contact Info",
+        "relationStatus": "Relation Status"
+    },
+    "transactions": {
+        "title": "Transactions",
+        "addTransaction": "Add Transaction",
+        "type": "Type",
+        "amount": "Amount",
+        "date": "Date",
+        "partyName": "Party Name",
+        "description": "Description",
+        "income": "Income",
+        "expense": "Expense"
+    },
+    "types": {
+        "groupAsset": "Group Asset",
+        "coInvestment": "Co-investment",
+        "leasedIn": "Leased In",
+        "managedAsset": "Managed Asset"
+    },
+    "statuses": {
+        "holding": "Holding",
+        "renting": "Renting",
+        "sold": "Sold",
+        "suspended": "Suspended"
+    },
+    "landUses": {
+        "unknown": "Unknown",
+        "openStorage": "Open Storage",
+        "residentialA": "Residential A",
+        "openSpace": "Open Space",
+        "villageDev": "Village Dev",
+        "natureReserve": "Nature Reserve"
+    }
+}

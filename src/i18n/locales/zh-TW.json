@@ -1,0 +1,97 @@
+{
+    "app": {
+        "title": "Antigravity 物業系統",
+        "admin": "管理員儀表板",
+        "client": "客戶門戶"
+    },
+    "nav": {
+        "dashboard": "儀表板",
+        "properties": "物業",
+        "renting": "租賃（支出）",
+        "rentout": "出租（收入）",
+        "proprietors": "業主",
+        "myListings": "我的列表",
+        "logout": "登出"
+    },
+    "common": {
+        "add": "新增",
+        "edit": "編輯",
+        "delete": "刪除",
+        "save": "儲存",
+        "cancel": "取消",
+        "search": "搜尋",
+        "filter": "篩選",
+        "actions": "操作",
+        "loading": "載入中...",
+        "error": "錯誤",
+        "success": "成功",
+        "confirm": "確認",
+        "yes": "是",
+        "no": "否"
+    },
+    "auth": {
+        "login": "登入",
+        "email": "電郵",
+        "password": "密碼",
+        "loginButton": "登入",
+        "loginError": "無效的憑證"
+    },
+    "properties": {
+        "title": "物業",
+        "addProperty": "新增物業",
+        "editProperty": "編輯物業",
+        "name": "名稱",
+        "proprietor": "業主",
+        "type": "類型",
+        "status": "狀態",
+        "landUse": "土地用途",
+        "address": "地址",
+        "lotNumber": "地段號碼",
+        "areaSquareFeet": "面積（平方呎）",
+        "code": "代碼",
+        "images": "圖片",
+        "mapImages": "地圖圖片",
+        "floorPlan": "平面圖",
+        "hasPlanningPermission": "有規劃許可",
+        "isListed": "已列出",
+        "createNewProprietor": "建立新業主"
+    },
+    "proprietors": {
+        "title": "業主",
+        "addProprietor": "新增業主",
+        "name": "名稱",
+        "contactInfo": "聯絡資料",
+        "relationStatus": "關係狀態"
+    },
+    "transactions": {
+        "title": "交易",
+        "addTransaction": "新增交易",
+        "type": "類型",
+        "amount": "金額",
+        "date": "日期",
+        "partyName": "對方名稱",
+        "description": "描述",
+        "income": "收入",
+        "expense": "支出"
+    },
+    "types": {
+        "groupAsset": "集團資產",
+        "coInvestment": "共同投資",
+        "leasedIn": "租入",
+        "managedAsset": "託管資產"
+    },
+    "statuses": {
+        "holding": "持有",
+        "renting": "出租中",
+        "sold": "已售",
+        "suspended": "暫停"
+    },
+    "landUses": {
+        "unknown": "未知",
+        "openStorage": "露天貯物",
+        "residentialA": "住宅甲類",
+        "openSpace": "休憩用地",
+        "villageDev": "鄉村發展",
+        "natureReserve": "自然保育區"
+    }
+}
