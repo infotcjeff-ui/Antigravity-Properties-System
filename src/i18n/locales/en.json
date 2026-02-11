@@ -1,0 +1,98 @@
+{
+    "common": {
+        "login": "Login",
+        "logout": "Logout",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit",
+        "add": "Add",
+        "search": "Search",
+        "loading": "Loading...",
+        "noData": "No data"
+    },
+    "auth": {
+        "username": "Username",
+        "password": "Password",
+        "rememberMe": "Remember me",
+        "signIn": "Sign In",
+        "signingIn": "Signing in...",
+        "invalidCredentials": "Invalid username or password"
+    },
+    "nav": {
+        "dashboard": "Dashboard",
+        "properties": "Properties",
+        "renting": "Renting",
+        "rentOut": "Rent Out",
+        "proprietors": "Proprietors",
+        "showAll": "Show All"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "welcome": "Welcome back! Here's your overview.",
+        "totalProperties": "Total Properties",
+        "holding": "Holding",
+        "renting": "Renting",
+        "proprietors": "Proprietors",
+        "recentProperties": "Recent Properties",
+        "viewProperties": "View Properties",
+        "manageRenting": "Manage Renting",
+        "showAllRelations": "Show All Relations"
+    },
+    "property": {
+        "title": "Properties",
+        "addProperty": "Add Property",
+        "editProperty": "Edit Property",
+        "name": "Name",
+        "code": "Code",
+        "address": "Address",
+        "lotArea": "Lot Area",
+        "type": "Type",
+        "status": "Status",
+        "landUse": "Land Use",
+        "images": "Images",
+        "geoMaps": "Geo Maps",
+        "planningPermission": "Planning Permission",
+        "proprietor": "Proprietor",
+        "types": {
+            "group_asset": "Group Asset",
+            "co_investment": "Co-investment",
+            "external_lease": "External Lease",
+            "managed_asset": "Managed Asset"
+        },
+        "statuses": {
+            "holding": "Holding",
+            "renting": "Renting",
+            "sold": "Sold",
+            "suspended": "Suspended"
+        },
+        "landUses": {
+            "unknown": "Unknown",
+            "open_storage": "Open Storage",
+            "residential_a": "Residential(A)",
+            "open_space": "Open Space",
+            "village_dev": "Village Development",
+            "conservation_area": "Conservation Area"
+        }
+    },
+    "proprietor": {
+        "title": "Proprietors",
+        "addProprietor": "Add Proprietor",
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "address": "Address",
+        "notes": "Notes"
+    },
+    "rent": {
+        "renting": "Renting",
+        "rentOut": "Rent Out",
+        "amount": "Amount",
+        "period": "Period",
+        "status": "Status",
+        "active": "Active",
+        "pending": "Pending",
+        "completed": "Completed",
+        "cancelled": "Cancelled"
+    }
+}

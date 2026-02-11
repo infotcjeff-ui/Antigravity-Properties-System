@@ -1,0 +1,100 @@
+{
+  "common": {
+    "login": "登入",
+    "logout": "登出",
+    "save": "儲存",
+    "cancel": "取消",
+    "delete": "刪除",
+    "edit": "編輯",
+    "add": "新增",
+    "search": "搜尋",
+    "loading": "載入中...",
+    "noData": "沒有資料"
+  },
+  "auth": {
+    "username": "用戶名",
+    "password": "密碼",
+    "rememberMe": "記住我",
+    "signIn": "登入",
+    "signingIn": "登入中...",
+    "invalidCredentials": "用戶名或密碼錯誤"
+  },
+  "nav": {
+    "dashboard": "儀表板",
+    "properties": "物業",
+    "renting": "交租",
+    "rentOut": "收租",
+    "proprietors": "資產擁有方",
+    "showAll": "關聯表"
+  },
+  "dashboard": {
+    "title": "儀表板",
+    "welcome": "歡迎回來！這是您的概覽。",
+    "totalProperties": "物業總數",
+    "holding": "持有中",
+    "renting": "出租中",
+    "proprietors": "業主",
+    "recentProperties": "最近新增的物業",
+    "viewProperties": "查看所有物業",
+    "manageRenting": "管理交租記錄",
+    "showAllRelations": "查看關聯表"
+  },
+  "property": {
+    "title": "物業",
+    "addProperty": "新增物業",
+    "editProperty": "編輯物業",
+    "name": "名稱",
+    "code": "編號",
+    "address": "地址",
+    "lotArea": "地段面積",
+    "type": "類型",
+    "status": "狀態",
+    "landUse": "土地用途",
+    "images": "圖片",
+    "geoMaps": "地圖",
+    "planningPermission": "最新規劃許可申請",
+    "proprietor": "業主",
+    "types": {
+      "group_asset": "集團資產",
+      "co_investment": "合作投資",
+      "external_lease": "外租物業",
+      "managed_asset": "代管資產"
+    },
+    "statuses": {
+      "holding": "持有中",
+      "renting": "出租中",
+      "sold": "已售出",
+      "suspended": "已暫停"
+    },
+    "landUses": {
+      "unknown": "未知",
+      "open_storage": "露天倉儲",
+      "residential_a": "住宅(甲)",
+      "open_space": "開放空間",
+      "village_dev": "鄉村式發展",
+      "conservation_area": "保育區",
+      "residential_c": "住宅(丙類)",
+      "recreation_use": "休憩用地"
+    }
+  },
+  "proprietor": {
+    "title": "資產擁有方",
+    "addProprietor": "新增業主",
+    "name": "名稱",
+    "email": "電郵",
+    "phone": "電話",
+    "address": "地址",
+    "notes": "備註"
+  },
+  "rent": {
+    "renting": "交租",
+    "rentOut": "收租",
+    "amount": "金額",
+    "period": "期間",
+    "status": "狀態",
+    "active": "生效中",
+    "pending": "待處理",
+    "completed": "已完成",
+    "cancelled": "已取消"
+  }
+}
